@@ -1,2 +1,2 @@
 # UWPX-Logos
-UWPX logo resources
+A collection of all UWPX logo resources.
