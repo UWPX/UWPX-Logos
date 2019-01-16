@@ -1,0 +1,5 @@
+// XMPP Logo
+Von Raja Sandhu, XMPP Standards Foundation - http://xmpp.org, MIT, https://commons.wikimedia.org/w/index.php?curid=20775269
+
+// Chat
+https://www.iconfinder.com/icons/392521/bubble_chat_comment_message_talk_icon#size=256
