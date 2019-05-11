@@ -1,0 +1,61 @@
+<?xml version="2.0" encoding="UTF-8" ?>
+<svg width="4000" height="4000" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="f3" width="200%" height="200%">
+            <feOffset result="offOut" in="SourceAlpha"/>
+            <feGaussianBlur result="blurOut" in="offOut" stdDeviation="50" />
+            <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+        </filter>
+    </defs>
+
+    <g transform="translate(250,325)">
+        <!-- Fourth: -->
+        <g transform="translate(0,2250)" fill="#33691e">
+            <g filter="url(#f3)">
+                <rect x="0" y="0" width="2750" height="750" />
+                <polygon points="200,750 550,750 200,1100" />
+            </g>
+            <g transform="translate(150,150)" fill="#558b2f" >
+                <rect x="0" y="0" width="2450" height="100" />
+                <rect x="0" y="175" width="2450" height="100" />
+                <rect x="0" y="350" width="2450" height="100" />
+            </g>
+        </g>
+        <!-- Third: -->
+        <g transform="translate(750,1500)" fill="#7cb342">
+            <g filter="url(#f3)">
+                <rect x="0" y="0" width="2750" height="750" />
+                <polygon points="2250,750 2550,750 2550,1100" />
+            </g>
+            <g transform="translate(150,150)" fill="#c5e1a5" >
+                <rect x="0" y="0" width="2450" height="100" />
+                <rect x="0" y="175" width="2450" height="100" />
+                <rect x="0" y="350" width="2450" height="100" />
+            </g>
+        </g>
+        <!-- Second: -->
+        <g transform="translate(0,750)" fill="#8bc34a">
+            <g filter="url(#f3)">
+                <rect x="0" y="0" width="2750" height="750" />
+                <polygon points="200,750 550,750 200,1100" />
+            </g>
+            <g transform="translate(150,150)" fill="#9ccc65" >
+                <rect x="0" y="0" width="2450" height="100" />
+                <rect x="0" y="175" width="2450" height="100" />
+                <rect x="0" y="350" width="2450" height="100" />
+            </g>
+        </g>
+        <!-- First -->
+        <g transform="translate(750,0)" fill="#aed581">
+            <g filter="url(#f3)">
+                <rect x="0" y="0" width="2750" height="750" />
+                <polygon points="2250,750 2550,750 2550,1100" />
+            </g>
+            <g transform="translate(150,150)" fill="#c5e1a5" >
+                <rect x="0" y="0" width="2450" height="100" />
+                <rect x="0" y="175" width="2450" height="100" />
+                <rect x="0" y="350" width="2450" height="100" />
+            </g>
+        </g>
+    <g/>
+</svg>
