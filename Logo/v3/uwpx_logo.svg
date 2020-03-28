@@ -11,10 +11,7 @@
     <g transform="translate(250,325)">
         <!-- Fourth: -->
         <g transform="translate(0,2250)" fill="#33691e">
-            <g filter="url(#f3)">
-                <rect x="0" y="0" width="2750" height="750" />
-                <polygon points="200,750 550,750 200,1100" />
-            </g>
+            <polygon points="0,0 0,750 200,750 200,1100 550,750 2750,750 2750,0" filter="url(#f3)"/>
             <g transform="translate(150,150)" fill="#558b2f" >
                 <rect x="0" y="0" width="2450" height="100" />
                 <rect x="0" y="175" width="2450" height="100" />
@@ -23,10 +20,7 @@
         </g>
         <!-- Third: -->
         <g transform="translate(750,1500)" fill="#689f38">
-            <g filter="url(#f3)">
-                <rect x="0" y="0" width="2750" height="750" />
-                <polygon points="2250,750 2550,750 2550,1100" />
-            </g>
+            <polygon points="0,0 0,750 2250,750 2550,1100 2550,750 2750,750 2750,0" filter="url(#f3)"/>
             <g transform="translate(150,150)" fill="#7cb342" >
                 <rect x="0" y="0" width="2450" height="100" />
                 <rect x="0" y="175" width="2450" height="100" />
@@ -35,10 +29,7 @@
         </g>
         <!-- Second: -->
         <g transform="translate(0,750)" fill="#8bc34a">
-            <g filter="url(#f3)">
-                <rect x="0" y="0" width="2750" height="750" />
-                <polygon points="200,750 550,750 200,1100" />
-            </g>
+            <polygon points="0,0 0,750 200,750 200,1100 550,750 2750,750 2750,0" filter="url(#f3)"/>
             <g transform="translate(150,150)" fill="#9ccc65" >
                 <rect x="0" y="0" width="2450" height="100" />
                 <rect x="0" y="175" width="2450" height="100" />
@@ -47,10 +38,7 @@
         </g>
         <!-- First -->
         <g transform="translate(750,0)" fill="#aed581">
-            <g filter="url(#f3)">
-                <rect x="0" y="0" width="2750" height="750" />
-                <polygon points="2250,750 2550,750 2550,1100" />
-            </g>
+            <polygon points="0,0 0,750 2250,750 2550,1100 2550,750 2750,750 2750,0" filter="url(#f3)"/>
             <g transform="translate(150,150)" fill="#c5e1a5" >
                 <rect x="0" y="0" width="2450" height="100" />
                 <rect x="0" y="175" width="2450" height="100" />
